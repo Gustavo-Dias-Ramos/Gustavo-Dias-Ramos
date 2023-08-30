@@ -11,7 +11,7 @@
 
 - 📫 Pode me encontrar em **gustavodiasramos@hotmail.com**
 
-- 📄 Meu currículo atualizado [http://www.linkedin.com/in/gustavo-dias-ramos-77a793127](www.linkedin.com/in/gustavo-dias-ramos-77a793127)
+- 📄 Meu currículo atualizado [https://www.linkedin.com/in/gustavo-dias-ramos-77a793127/](https://www.linkedin.com/in/gustavo-dias-ramos-77a793127/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
