@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-dias-ramos&label=Profile%20views&color=08ba34&style=flat" alt="gustavo-dias-ramos" /> </p>
 
-- 🔭 Engenheiro de formação.
+- 🔭 Engenheiro de formação, estou estudando para me tornar um Cientista de Dados.
 
 - 👯 Estou buscando conciliar meus conhecimentos em cartografia com programação e análise/ciência de dados.
 
