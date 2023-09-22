@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-dias-ramos&label=Profile%20views&color=08ba34&style=flat" alt="gustavo-dias-ramos" /> </p>
 
-- 🔭 Atualmente trabalho com Projetos cartográficos na área de Sanemamento.
+- 🔭 Engenheiro de formação, venho me mantendo atualizado nas tecnologias relacionadas a Análise e Ciência de Dados.
 
 - 👯 Estou buscando conciliar meus conhecimentos em cartografia com programação e análise/ciência de dados.
 
-- 🌱 Estou estudando Python, Machine Learning e SQL.
+- 🌱 Possuo experiência com as linguagens Python e SQL, bem comoMachine Learning, Banco de Dados, ETL e Power BI.
 
 - 📫 Pode me encontrar em **gustavodiasramos@hotmail.com**
 
