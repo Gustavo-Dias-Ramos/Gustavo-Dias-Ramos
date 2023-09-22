@@ -7,7 +7,7 @@
 
 - 👯 Estou buscando conciliar meus conhecimentos em cartografia com programação e análise/ciência de dados.
 
-- 🌱 Possuo experiência com as linguagens Python e SQL, bem comoMachine Learning, Banco de Dados, ETL e Power BI.
+- 🌱 Possuo experiência com as linguagens Python e SQL, bem como Machine Learning, Banco de Dados, ETL e Power BI.
 
 - 📫 Pode me encontrar em **gustavodiasramos@hotmail.com**
 
